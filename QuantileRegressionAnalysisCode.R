@@ -17,11 +17,6 @@ library(ggpubr) #Create plots to check normaility
 library(rstatix) #To use the function "add_significance"
 library(quantreg) # Model quantile regression
 
-#The formula above calculates R2 CI95: in the parenthesis, the R2, the sample, the number of predictors in the model, and significance
-#  CI.Rsq(rsq, n, k, level = 0.95)
-
-
-
 
 #Set working directory
 
